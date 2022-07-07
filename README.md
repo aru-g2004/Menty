@@ -1,2 +1,16 @@
-# Menty
-Menty is an app that helps people detect mental health disorders using easy, accessible methods. Users can decide to pay for Menty trainers yearly (like a personal trainer for physical health but instead a trainer for mental health). Each Menty trainer is a certified psychiatrist. If they would like to use the app for free, then they can choose to self-diagnose using a symptoms quiz that will load a diagnosis-specific user's "space" that will include exercises, tips, and other features catered to their diagnosed disorder. Virtual care can make mental health treatment more affordable, flexible, and accessible by reducing barriers such as transportation, using time off work, wait times, and accessibility. 
+# menty
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
