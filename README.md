@@ -1,4 +1,4 @@
-# menty
+# Menty
 
 A new Flutter project.
 
